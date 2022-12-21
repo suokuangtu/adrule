@@ -1,0 +1,162 @@
+! Title: tieba_csdn
+tieba.baidu.com##div.nav-bar-bottom
+tieba.baidu.com##.banner-wrapper
+tieba.baidu.com##div.banner-wrapper,div.fixed-nav-bar.nav-bar-wrapper,div.recommend-list,div.nav-bar-wrapper
+||c.tieba.baidu.com/c/p^
+||tieba.baidu.com/mo/q/checkurl?url=
+tieba.baidu.com$$a[class="ti_item j_click_stats"]
+tieba.baidu.com##div.panel_bottom,li.tl_shadow tl_shadow_new
+tieba.baidu.com###pb_adbanner,[class="l_post l_post_bright j_l_post clearfix "],[class="list_item_wrapper j_click_stats"],[data-isautoreply="467"],[data-isautoreply="475"],[data-isautoreply="479"],div.BAIDU_CLB_AD.BAIDU_CLB_AD_pb,DIV.dialogJmodal,div.search_bottomad,DIV.game_spread_thread,DIV#game_rank,DIV#guide_fc.guidance_fc,DIV#j_ten_years,div.pc2client,LI.BAIDU_CLB_AD,DIV.BAIDU_CLB_AD_iframe,DIV#worldcup_guess_frs_wrap,DIV#j_worldcup_info_banner,DIV.game_frs_in_head,DIV.game_content,div[class^="spreadad spreadad_"],li.clearfix.spreadad.spreadad_0001,div[id^="spreadad_"],div.game_banner,div#guide_attrack.guide_attrack,ul.per_list_body.clearfix,[class*="j_thread_list clearfix thread_local_"],div.per_list.j_per_list.per_list_frs,div[id^=dasense_].dasense.dasense_0101,div[id^=dasense_].l_post_bright.dasense,div.lot_wrap,div.game_banner_common_wapper,DIV.u9_head.clearfix,div.global_notice_wrap,a.j_firework_sender.firework_sender,div#platform_left_float,div[class^="dasense dasense_"],li[id^="dasense_"],div.t_con.clearfix,a.j_couplet,div.item.live_show_aside ,div.iframe_wrapper.clearfix,li.j_df_card,DIV.post_is_tpoint,DIV.post_is_tpoint + DIV.p_content.p_content_icon_row1.p_content_nameplate,div.umoney,div[id^="__bdyx_tips"],div[class^="bdyx_tips_"],div#game_pop_window,[class="umoney-dialog"],img.close_btn.j_click_close,img.hover_btn,DIV#j_p_postlist > DIV.l_post.l_post_bright.j_l_post.clearfix + DIV[class$="clearfix"],DIV[class="j_carousel carousel"],[class="client_ad_topBanner_all"],div[id="pagelet_frs-aside/pagelet/ad"],div#game_live_list,div[id="pagelet_encourage-appforum/pagelet/my_app"],div.aside_region.my_app.j_encourage_entry,div.aside_region.life_helper,div#encourage_entry.encourage_entry,div[data-daid],li[data-daid],div.region_bright.my_app,div.tpoint-imgs,li[tid="79764372225"],[class^="frs_pb_leadapp_pop"],#plat_order_head,a[class="ti_item j_click_stats"],a[class="ti_item j_post_item_link"],[class="tb-multi-ad-wrap j_click_stats"],.j_pb_bottom,#cpro_container,#spage-top-banner,.spage-couplet-container,li[tid="94668300830"],[id="94668300830"],[id="94616159964"],li[tid="94616159964"],li[tid="96005294430"],.ad_app_download,[src^="http://adscdn.baidu.com/baichuan/adp/image/"],.tpoint-skin,.forum_recommend_w,[id="pagelet_frs-header/pagelet/head_content_middle"],[lgoinprompt="prompt"],li[tid="96601374387"],#duoku_servers_list,.activity_head,.top_toutu_admarks,.head_banner_img,.head_ad_tag,.l_banner,[class="j_click_stats img_wrap"],[data-field*="?=blockNum?"]
+tieba.baidu.com###plat_recom_carousel,.head_banner{height:75px;}
+tieba.baidu.com##div.sponsor_banner
+tieba.com##.carousel_item_img,[class="l_post l_post_bright j_l_post clearfix "],[class="list_item_wrapper j_click_stats"],[data-isautoreply="467"],[data-isautoreply="475"],[data-isautoreply="479"],div.BAIDU_CLB_AD.BAIDU_CLB_AD_pb,DIV.dialogJmodal,div.search_bottomad,DIV.game_spread_thread,DIV#game_rank,DIV#guide_fc.guidance_fc,DIV#j_ten_years,div.pc2client,LI.BAIDU_CLB_AD,DIV.BAIDU_CLB_AD_iframe,DIV#worldcup_guess_frs_wrap,DIV#j_worldcup_info_banner,DIV.game_frs_in_head,DIV.game_content,div[class^="spreadad spreadad_"],li.clearfix.spreadad.spreadad_0001,div[id^="spreadad_"],div.game_banner,div#guide_attrack.guide_attrack,ul.per_list_body.clearfix,[class*="j_thread_list clearfix thread_local_"],div.per_list.j_per_list.per_list_frs,div[id^=dasense_].dasense.dasense_0101,div[id^=dasense_].l_post_bright.dasense,div.lot_wrap,div.game_banner_common_wapper,DIV.u9_head.clearfix,div.global_notice_wrap,a.j_firework_sender.firework_sender,div#platform_left_float,div[class^="dasense dasense_"],li[id^="dasense_"],div.t_con.clearfix,a.j_couplet,div.item.live_show_aside ,div.iframe_wrapper.clearfix,li.j_df_card,DIV.post_is_tpoint,DIV.post_is_tpoint + DIV.p_content.p_content_icon_row1.p_content_nameplate,div.umoney,div[id^="__bdyx_tips"],div[class^="bdyx_tips_"],div#game_pop_window,[class="umoney-dialog"],img.close_btn.j_click_close,img.hover_btn,DIV#j_p_postlist > DIV.l_post.l_post_bright.j_l_post.clearfix + DIV[class$="clearfix"],DIV[class="j_carousel carousel"],[class="client_ad_topBanner_all"],div[id="pagelet_frs-aside/pagelet/ad"],div#game_live_list,div[id="pagelet_encourage-appforum/pagelet/my_app"],div.aside_region.my_app.j_encourage_entry,div.aside_region.life_helper,div#encourage_entry.encourage_entry,div[data-daid],li[data-daid],div.region_bright.my_app,div.tpoint-imgs,li[tid="79764372225"],[class^="frs_pb_leadapp_pop"],#plat_order_head,a[class="ti_item j_click_stats"],a[class="ti_item j_post_item_link"],[class="tb-multi-ad-wrap j_click_stats"],.j_pb_bottom,#cpro_container,#spage-top-banner,.spage-couplet-container,li[tid="94668300830"],[id="94668300830"],[id="94616159964"],li[tid="94616159964"],li[tid="96005294430"],.ad_app_download,[src^="http://adscdn.baidu.com/baichuan/adp/image/"],.tpoint-skin,.forum_recommend_w,[id="pagelet_frs-header/pagelet/head_content_middle"],[lgoinprompt="prompt"],li[tid="96601374387"],#duoku_servers_list,.activity_head,.top_toutu_admarks,.head_banner_img,.head_ad_tag,.l_banner,[class="l_post j_l_post l_post_bright  "][data-field*="1990070693,"],[class="j_click_stats img_wrap"]
+tieba.baidu.com##DIV.panel_bottom,LI.tl_shadow tl_shadow_new ^
+tieba.baidu.com##SPAN.top_bar_content_text,DIV.appPromote_wrapper scale-1px-bottom,IMG.j_footer_logo_img,#m_footer,DIV.no_mean,DIV.addbodybottom,DIV.j_footer footer
+tieba.baidu.com###guide_fc,#global_notice_wrap,.content_top,.forum_header>div:first-child,.app_forum_top_nav,#encourage_entry,[id^=pagelet_encourage-appforum],.iframe_wrapper.clearfix,.d_sign_split~*,#thread_list>li:not([class*=thread_]),#j_p_postlist>div:not([data-field]):not(#j_p_postlist),#j_p_postlist>div[data-isautoreply],#game_live_list,#com_u9_head,.play_list_panel.j_play_list_panel,div.search_main_wrap~*,#aside_ad,a.j_click_stats.img_wrap,div.firework-wrap
+tieba.baidu.com###j_p_postlist>div.l_post_bright:has(a.j_click_stats.img_wrap)
+tieba.baidu.com##.footer
+tieba.baidu.com##.list_item_
+tieba.baidu.com##frs-tuijian,tl_gap,p_article,p_hot,p_show,s_post.post_user,p_media,hongbao_page_pop_common,ui_image_header_bottom,daoliu_sign_in_prompt,daoliu_sign_in_prompt_img,j_top_bar,wake_app_tip,addbodybottom,no_mean,frs-tuijian,blue_kit_outer_w,daoliu,appPromote,j_footer footer,tuijian-wrap,j_top_bar blue_kit,tab_head tab_index_head j_tab_index_head blue_kit light_tab_head,ui_search j_tab_con_search,expand-all,img_desc,mylike_edit,expand-all,c-blocka,pb_lzl_header_bar,tbheader,top-guide,navbar-box,search-box,all-btn,interest-bar,footer-wrap,hot-topic,no-signed-interest
+/widget/spage_game_tab/$domain=tieba.baidu.com
+||xiu8.com/live/$domain=tieba.baidu.com
+||tieba.baidu.com/app/pop/bws/popup
+||tieba.baidu.com/tbapp/user/getRecommendApp
+||static.tieba.baidu.com/tb/pms/
+||static.tieba.baidu.com/tb/img/pv.gif
+||static.tieba.baidu.com/tb/img/track.gif
+jump.bdimg.com,tieba.baidu.com###adide_platform
+jump.bdimg.com,tieba.baidu.com###media_item
+jump.bdimg.com,tieba.baidu.com###spage_game_tab_wrapper
+jump.bdimg.com,tieba.baidu.com###spage_liveshow_slide
+jump.bdimg.com,tieba.baidu.com###plat_act_wrapper
+jump.bdimg.com,tieba.baidu.com##.ihome_aside_section[j-mygift]
+jump.bdimg.com,tieba.baidu.com##.ihome_game_group
+jump.bdimg.com,tieba.baidu.com##.member_rank
+jump.bdimg.com,tieba.baidu.com##.userinfo_scores
+jump.bdimg.com,tieba.baidu.com##.fMember_cnt
+jump.bdimg.com,tieba.baidu.com##.split
+jump.bdimg.com,tieba.baidu.com##.u_app
+jump.bdimg.com,tieba.baidu.com##.u_appcenterEntrance
+jump.bdimg.com,tieba.baidu.com##.u_bdhome
+jump.bdimg.com,tieba.baidu.com##.u_blue
+jump.bdimg.com,tieba.baidu.com##.u_game
+jump.bdimg.com,tieba.baidu.com##.u_grab_treasure
+jump.bdimg.com,tieba.baidu.com##.u_joinvip
+jump.bdimg.com,tieba.baidu.com##.u_split
+jump.bdimg.com,tieba.baidu.com##.u_member
+jump.bdimg.com,tieba.baidu.com##.u_menu_tbmall
+jump.bdimg.com,tieba.baidu.com##.u_mytbmall
+jump.bdimg.com,tieba.baidu.com##.u_xiu8
+jump.bdimg.com,tieba.baidu.com##.u_wallet
+jump.bdimg.com,tieba.baidu.com###local_board
+jump.bdimg.com,tieba.baidu.com###j_navtab_wanle
+jump.bdimg.com,tieba.baidu.com###j_navtab_game
+jump.bdimg.com,tieba.baidu.com##.gift-goin
+jump.bdimg.com,tieba.baidu.com##.icon_group
+jump.bdimg.com,tieba.baidu.com##.j_tbnav_tab_a[stats-data^="fr=tb0_forum&st_mod=frs&st_value=tabgroup"]
+jump.bdimg.com,tieba.baidu.com##.star_nav_ico_activity
+jump.bdimg.com,tieba.baidu.com##.star_nav_ico_deal
+jump.bdimg.com,tieba.baidu.com##.star_nav_ico_group
+jump.bdimg.com,tieba.baidu.com##.star_nav_ico_tuan
+jump.bdimg.com,tieba.baidu.com###aside_ad
+jump.bdimg.com,tieba.baidu.com###aside_ad_wrapper
+jump.bdimg.com,tieba.baidu.com###novel-ranking
+jump.bdimg.com,tieba.baidu.com###tieba-notice.region_bright
+jump.bdimg.com,tieba.baidu.com##.app_download_box
+jump.bdimg.com,tieba.baidu.com##.app_forum_rank_float
+jump.bdimg.com,tieba.baidu.com##.aside_region.celebrity
+jump.bdimg.com,tieba.baidu.com##.fansparty-wrap
+jump.bdimg.com,tieba.baidu.com##.guess-sidebar-container
+jump.bdimg.com,tieba.baidu.com##.nani_app_download_box
+jump.bdimg.com,tieba.baidu.com##.platform_aside_tieba_partner
+jump.bdimg.com,tieba.baidu.com##.profile_bottom
+jump.bdimg.com,tieba.baidu.com##.region_bright.celebrity
+jump.bdimg.com,tieba.baidu.com##.showlist_wap
+jump.bdimg.com,tieba.baidu.com##.tbui_fbar_bazhu
+jump.bdimg.com,tieba.baidu.com##.tbui_fbar_props
+jump.bdimg.com,tieba.baidu.com##.tieba_notice
+jump.bdimg.com,tieba.baidu.com##.user_score
+jump.bdimg.com,tieba.baidu.com###top_activity
+jump.bdimg.com,tieba.baidu.com##.achievement_medal_wrapper
+jump.bdimg.com,tieba.baidu.com##.card_userinfo_honor
+jump.bdimg.com,tieba.baidu.com##.d_icons
+jump.bdimg.com,tieba.baidu.com##.d_nameplate
+jump.bdimg.com,tieba.baidu.com##.dialogJ.game_player_auth_dialog
+jump.bdimg.com,tieba.baidu.com##.dialogJ.tieba-sign-card
+jump.bdimg.com,tieba.baidu.com##.fav-wrapper
+jump.bdimg.com,tieba.baidu.com##.icon_author
+jump.bdimg.com,tieba.baidu.com##.icon_wrap
+jump.bdimg.com,tieba.baidu.com##.icon_replyer
+jump.bdimg.com,tieba.baidu.com##.icon_tbworld
+jump.bdimg.com,tieba.baidu.com##.j-post-send-gift
+jump.bdimg.com,tieba.baidu.com##.p_mall_tail
+jump.bdimg.com,tieba.baidu.com##.pre_icon_wrap
+jump.bdimg.com,tieba.baidu.com##.save_face_bg
+jump.bdimg.com,tieba.baidu.com##.sofa_front_list_wrap
+jump.bdimg.com,tieba.baidu.com##.share_btn_wrapper
+jump.bdimg.com,tieba.baidu.com##.thread_recommend_ps
+jump.bdimg.com,tieba.baidu.com##.user_card_vip_tips
+jump.bdimg.com,tieba.baidu.com###bdshare
+jump.bdimg.com,tieba.baidu.com###guide_fc
+jump.bdimg.com,tieba.baidu.com###xiu8_follow_warn
+jump.bdimg.com,tieba.baidu.com##.add_guessing_btn
+jump.bdimg.com,tieba.baidu.com##.edui-btn-medal
+jump.bdimg.com,tieba.baidu.com##.edui-btn-paypost
+jump.bdimg.com,tieba.baidu.com##.j_surveillance
+jump.bdimg.com,tieba.baidu.com##.showBar
+||tieba.baidu.com/mo/q/appSpecialThread
+tieba.baidu.com##.client_ghost_icon
+tieba.baidu.com##.daoliu_sign_in_show
+tieba.baidu.com##.dia_mask
+tieba.baidu.com##.dia_wrapper
+tieba.baidu.com##.light_top_ext_area
+tieba.baidu.com##.j_click_stats, .j_click_stats+*
+tieba.baidu.com##.more_btn_package
+tieba.baidu.com##.tuijian-wrap
+tieba.baidu.com##DIV[class='top-guide top-guide-wrap']
+tieba.baidu.com##A[class='pb_cut_hot_recommend_content j_recommend_item']
+tieba.baidu.com###list_item_wrapper j_click_stats
+tieba.baidu.com###pb_cut_hot_recommend
+tieba.baidu.com##DIV.pb_cut_hot_recommend
+tieba.baidu.con##DIV.list_item_wrapper j_click_stats
+tieba.baidu.com$$div[class="list_item_wrapper j_click_stats"]
+tieba.baidu.com$$div[class="panel_bottom"]
+tieba.baidu.com$$div[class="pb_cut_hot_recommend"]
+tieba.baidu.com$$div[class="appPromote_wrapper scale-1px-bottom"]
+tieba.baidu.com$$div[class="pb_prompt_"]
+tieba.baidu.com$$img[class="fixed_bar_"]
+tieba.baidu.com##DIV[class='empty_wrap']
+tieba.baidu.com##DIV[class='j_daoliubar']
+tieba.baidu.com##A[class='recommend_item j_recommend_item']
+tieba.baidu.com##DIV[class='re_floor']
+tieba.baidu.com##DIV[class='recommend_list_title']
+tieba.baidu.com$$div[class="pbshare_recommend_wrapper"]
+tieba.baidu.com$$button[class="enter_tb"]
+tieba.baidu.com$$div[class="j_daoliubar"]
+tieba.baidu.com##.li.tl_shadow.tl_shadow_new
+tieba.baidu.com##div.open-style
+tieba.baidu.com###diversBanner
+tieba.baidu.com##div.ui_image_header_bottom
+tieba.baidu.com##div.tb-footer-wrap
+tieba.baidu.com##div.father_cut_daoliu
+tieba.baidu.com##div.daoliubar.appPromote
+||tiebac.baidu.com/ala^
+tieba.baidu.com##div[class="sub-img-list"],div[class="appPromote_wrapper scale-1px-bottom"],div[class="j_pb_footer j_footer footer pb-footer"]
+||profile.csdnimg.cn^
+||blog.csdn.net//phoenix/web/v2/skill-tree-info?
+||silkroad.csdn.net^
+csdn.net$$a[class="app-bt-sure"]
+csdn.net$$span[class="feed-Sign-span"]
+csdn.net$$div[class="btn_open_app_prompt_div"]
+csdn.net$$div[class="weixin-shadowbox wap-shadowbox"]
+csdn.net###tad2,div#ad_top,DIV[class^="ad_"],#Topic_Top,div#ad_left,div#ad_right,DIV.AD.mb-bg,.enter-AD,.top_ad,.ad .J_adv,.dl_mar_b,.J_adv,.yd_a_d_feed_cla,[data-mod^="ad_popu_"]
+m.blog.csdn.net##[width="400"]
+||blog.csdn.net/*/phoenix/comment/list/
+blog.csdn.net###btn-app
+blog.csdn.net##div.recommend_list
+download.csdn.net##div.fixed_box
+||event.csdn.net^
+||kunyu.csdn.net^
+||adaccount.csdn.net^
+||kunpeng.csdn.net^
+||zhannei-dm.csdn.net^
